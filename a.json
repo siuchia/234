@@ -1,0 +1,16 @@
+{
+    "company": "pome",
+    "age": 2,
+    "staff": [
+        {
+            "name": "howard",
+            "age": 28
+        },
+        {
+            "name": "joshua",
+            "age": 23,
+            "love":"grace"
+        }
+    ],
+    "manager": "frank"
+}
